@@ -11,8 +11,8 @@ The five stories on the front page:
 1. **APEC Summit Opens in Shenzhen** (diplomacy) — the summit's two-day programme begins in Shenzhen; Putin arrives for his first in-person APEC since 2017, Xi Jinping delivers the CEO Summit keynote, and the first-ever Trump–Xi–Putin meeting is set for Thursday.
 2. **Iran–US Clashes Widen Across Gulf** (conflict) — Kuwait reports a drone attack and Gulf states condemn the Iranian strikes on Bahrain, as the US–Iran exchange around Bahrain and Qeshm Island widens.
 3. **Asia Stocks Rebound on Nvidia Beat** (markets) — Asian shares snap a four-day losing streak after Nvidia's record results; South Korea's Kospi surges 3.3% as chip shares rally.
-4. **Anthropic Prices Landmark IPO** (technology) — the AI company prices its Nasdaq offering on the day, seeking a valuation of up to $1.4 trillion, with trading to start Thursday.
-5. **Cyclone Akvan Bears Down on India** (weather) — the severe cyclonic storm puts India's Andhra coast on orange alert, with landfall due Friday at 130 km/h winds (IMD).
+4. **Anthropic Seals Record $81.3bn IPO** (technology) — the AI company prices its Nasdaq offering at $83 a share: 980 million shares sold, a record $81.3bn raised, about $1.5tn fully diluted, with trading to start Thursday.
+5. **Peltola Flips Alaska Senate Seat** (politics) — Democrat Mary Peltola beats incumbent Dan Sullivan, giving Democrats a 56–44 Senate majority — their largest since 2009.
 
 How it works: the finished poster is committed as `poster.png`, and `main.py` (Python 3, standard library only) verifies the PNG and copies it byte-for-byte to `$MAKEFUN_OUTPUT_DIR/entry.png` (falling back to `/output/entry.png`). Two runs always produce identical bytes.
 
